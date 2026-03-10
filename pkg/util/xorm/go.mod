@@ -8,7 +8,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.22
 	github.com/stretchr/testify v1.10.0
 	google.golang.org/grpc v1.71.0
-	xorm.io/builder v0.3.6
+	xorm.io/builder v0.3.13
 	xorm.io/core v0.7.3
 )
 
